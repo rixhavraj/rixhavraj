@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @rixhavraj
+- 👋 Hi, I’m Rishav 
 - 👀 I’m interested in making different things
 - 🌱 I’m currently learning backend and Cybersecurity
 - 💞️ I’m looking to collaborate on making digital stuffs
