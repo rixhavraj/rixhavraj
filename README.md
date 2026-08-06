@@ -1,5 +1,6 @@
 - 👋 I’m Rishav
-<img width="608" height="672" alt="image" src="https://github.com/user-attachments/assets/4dc0f427-ff6d-4ac6-9782-80c3b4ab2aac" />
+<img width="431" height="446" alt="image" src="https://github.com/user-attachments/assets/5d136b64-d212-41fc-a1ac-72a5e9acd66a" />
+
 
 
 
